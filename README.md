@@ -16,6 +16,12 @@
 2. Gin web framework
 3. Gorm ORM
 4. PostgreSQL
+5. Websockets
+6. Redis
+7. Kafka
+8. RabbitMQ
+9. JWT Authentication
+10. OpenAI API
 
 ### Devops
 1. Docker
